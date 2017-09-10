@@ -1,0 +1,56 @@
+ Volume in drive C is BOOTCAMP
+ Volume Serial Number is 0246-9FF7
+
+ Directory of C:\GovernmentEngine\EpicForceEngine\libjpeg
+
+08/08/2017  13:35             5,235 jaricom.c
+08/08/2017  13:35             9,672 jcapimin.c
+08/08/2017  13:35             6,102 jcapistd.c
+08/08/2017  13:35            29,171 jcarith.c
+08/08/2017  13:35            17,104 jccoefct.c
+08/08/2017  13:35            19,989 jccolor.c
+08/08/2017  13:35            16,027 jcdctmgr.c
+08/08/2017  13:35            49,544 jchuff.c
+08/08/2017  13:35             2,989 jcinit.c
+08/08/2017  13:35             9,953 jcmainct.c
+08/08/2017  13:35            19,648 jcmarker.c
+08/08/2017  13:35            32,053 jcmaster.c
+08/08/2017  13:35             3,216 jcomapi.c
+08/08/2017  13:35            24,486 jcparam.c
+08/08/2017  13:35            12,574 jcprepct.c
+08/08/2017  13:35            20,468 jcsample.c
+08/08/2017  13:35            14,355 jctrans.c
+08/08/2017  13:35            13,241 jdapimin.c
+08/08/2017  13:35             9,669 jdapistd.c
+08/08/2017  13:35            25,041 jdarith.c
+08/08/2017  13:35             8,982 jdatadst.c
+08/08/2017  13:35             9,648 jdatasrc.c
+08/08/2017  13:35            26,169 jdcoefct.c
+08/08/2017  13:35            23,506 jdcolor.c
+08/08/2017  13:35            12,764 jddctmgr.c
+08/08/2017  13:35            50,103 jdhuff.c
+08/08/2017  13:35            25,749 jdinput.c
+08/08/2017  13:35            21,030 jdmainct.c
+08/08/2017  13:35            47,450 jdmarker.c
+08/08/2017  13:35            19,589 jdmaster.c
+08/08/2017  13:35            16,076 jdmerge.c
+08/08/2017  13:35            10,013 jdpostct.c
+08/08/2017  13:35            12,290 jdsample.c
+08/08/2017  13:35             5,193 jdtrans.c
+08/08/2017  13:35             8,103 jerror.c
+08/08/2017  13:35             6,219 jfdctflt.c
+08/08/2017  13:35             8,247 jfdctfst.c
+08/08/2017  13:35           163,272 jfdctint.c
+08/08/2017  13:35             8,594 jidctflt.c
+08/08/2017  13:35            13,058 jidctfst.c
+08/08/2017  13:35           189,981 jidctint.c
+08/08/2017  13:35             4,777 jmemansi.c
+08/08/2017  13:35            42,154 jmemmgr.c
+08/08/2017  13:35             3,991 jpeg.c
+08/08/2017  13:35            32,184 jquant1.c
+08/08/2017  13:35            49,782 jquant2.c
+08/08/2017  13:35             6,962 jutils.c
+08/08/2017  13:35            14,981 rdjpgcom.c
+08/08/2017  13:35            65,483 transupp.c
+              49 File(s)      1,246,887 bytes
+               0 Dir(s)  42,455,040,000 bytes free
